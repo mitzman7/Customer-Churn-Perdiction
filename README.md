@@ -1,1 +1,2 @@
-This repository contains my work for the Python Data Analysis project, focusing on predicting customer churn using a provided dataset. The project includes data preprocessing, exploratory data analysis, model training, and evaluation, culminating in a comprehensive presentation of the findings.
+# Customer-Churn-Perdiction
+This repository contains Python Data Analysis project for a telecom company, focusing on predicting customer churn using the provided dataset. The project includes data preprocessing, EDA, model training, and evaluation.
